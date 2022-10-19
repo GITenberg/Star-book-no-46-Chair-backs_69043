@@ -1,0 +1,29 @@
+_repo: Star-book-no-46-Chair-backs_69043
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2022-09-25'
+identifiers:
+  gutenberg: '69043'
+language: en
+pgterms:marc905: 20200927071946anonymous
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Stephen Hutcheson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: United States :American Thread Company,1947.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Star book no. 46: Chair backs'
+url: http://www.gutenberg.org/ebooks/69043
